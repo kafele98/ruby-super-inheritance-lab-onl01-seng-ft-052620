@@ -7,6 +7,7 @@ class ChattyStudent < Student
   
   def pick_me 
     super 
+    9.times do 
     puts "Pick me!" 
   end 
 
