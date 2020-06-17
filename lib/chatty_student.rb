@@ -7,7 +7,7 @@ class ChattyStudent < Student
   
   def pick_me 
     super 
-    puts "Pick me!".10 
+    puts "Pick me!" 
   end 
 
 end 
